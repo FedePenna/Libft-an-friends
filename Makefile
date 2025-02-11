@@ -34,7 +34,17 @@ SRC = ft_atoi.c    \
        ft_tolower.c \
        ft_toupper.c \
        ft_itoa.c \
-       get_next_line.c
+       get_next_line.c \
+       ft_printf.c \
+       ft_checkf.c \
+       ft_putstr.c \
+       ft_pointer_c.c \
+       ft_putchar_c.c \
+       ft_putnbr_base.c \
+       ft_putstr_c.c \
+       ft_putuint_c.c \
+       ft_puthex_c.c \
+       ft_putint_c.c
        
 
 OBJS = $(SRC:.c=.o) # This variable will convert src .c files to object files .o
