@@ -1,2 +1,54 @@
 # Libft-an-friends
 A library of functions in C learned with wonderful people at 42 Rome
+I am also adding my get_next_line and printf, and other stuff will be coming over soon!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kindred is fucking bullshit
