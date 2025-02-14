@@ -28,7 +28,7 @@ void	*ft_memcpy(void *dest, const void *src, size_t n)
 /*
 int	main()
 {
-	char str1 [] = "mignotte";
+	char str1 [] = "pognotte";
 	char str2 [] = "pagnotte";
 	ft_memcpy(str1, str2, 1);
 	write (1, str1, 8);
